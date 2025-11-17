@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PruebaGit</string>
+    <string name="todosUnidos">Prueba desde VSCode</string>
 </resources>
